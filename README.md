@@ -1,2 +1,3 @@
 # PowerBI
-Projetos Realizados com o Power BI
+Dados retirados do curso: Power BI para Todos: Fácil e Simples! Udemy.
+
